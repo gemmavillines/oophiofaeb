@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahdohwiet.fablabcb.de/sitemap.xml
